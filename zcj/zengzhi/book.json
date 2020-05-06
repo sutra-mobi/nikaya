@@ -1,0 +1,11 @@
+{
+	"title":"巴利三藏.增支部",
+	"author":"莊春江.譯",
+	"language":"zh-hans",
+	"plugins":["-lunr"],
+	"pluginsConfig": {
+		"fontsettings": {
+			"size": 2
+		}
+	}
+}

@@ -1,0 +1,1 @@
+![Buddha](cover.jpg)
