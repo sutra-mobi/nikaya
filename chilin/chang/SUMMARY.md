@@ -1,6 +1,6 @@
 # Summary
 
-* [长部经典](README.md)
+* [長部经典](README.md)
 	* [一．梵網經](content/01.md)
 	* [二．沙門果經](content/02.md)
 	* [三．菴婆多經](content/03.md)
