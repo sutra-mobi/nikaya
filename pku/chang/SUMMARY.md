@@ -1,6 +1,8 @@
 # Summary
 
 * [长部](README.md)
+* [巴利佛典的由来](content/preface-1.md)
+* [探径于《长部》](content/preface-2.md)
 * 戒蕴品
  * [梵网经](content/01.md)
  * [沙门果经](content/02.md)
