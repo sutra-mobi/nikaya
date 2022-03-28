@@ -11,6 +11,10 @@
   * [中部](zcj/zhong/SUMMARY.md)
   * [相应部](zcj/xiangying/SUMMARY.md)
   * [增支部](zcj/zengzhi/SUMMARY.md)
+* 志莲净苑译本（箫式球等选译）
+  * [长部](chilin/chang/SUMMARY.md)
+  * [中部](chilin/zhong/SUMMARY.md)
+  * [相应部(部分)](chilin/xiangying/SUMMARY.md)
 * 杭州佛学院《巴利佛典译丛》系列译本
   * [长部](hzfxy/chang/SUMMARY.md)
   * [中部](hzfxy/zhong/SUMMARY.md)
