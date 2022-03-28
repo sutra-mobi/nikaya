@@ -1,7 +1,10 @@
 {
 	"title":"汉译巴利三藏.经藏.长部",
 	"author":"段晴 等",
+	"publisher":"中西书局",
 	"language":"zh-hans",
+	"year":2012,
+	"isbn":"978-7-5475-0382-9",
 	"pluginsConfig": {
 		"fontsettings": {
 			"size": 2

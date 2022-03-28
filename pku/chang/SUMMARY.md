@@ -40,3 +40,4 @@
  * [阿吒那智经](content/32.md)
  * [合诵经](content/33.md)
  * [十上经](content/34.md)
+* [译后记](content/end.md)
