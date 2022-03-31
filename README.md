@@ -14,7 +14,7 @@
 * 志莲净苑译本（箫式球等选译）
   * [长部](chilin/chang/SUMMARY.md)
   * [中部](chilin/zhong/SUMMARY.md)
-  * [相应部(缺第8-第11相应)](chilin/xiangying/SUMMARY.md)
+  * [相应部](chilin/xiangying/SUMMARY.md) (缺第8-第11相应)
 * 杭州佛学院《巴利佛典译丛》系列译本
   * [长部](hzfxy/chang/SUMMARY.md)
   * [中部](hzfxy/zhong/SUMMARY.md)
