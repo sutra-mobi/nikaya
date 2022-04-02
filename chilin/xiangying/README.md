@@ -1,1 +1,1 @@
-![Buddha](chilin_cover.jpg)
+![](chilin.jpg)

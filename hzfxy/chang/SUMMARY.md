@@ -1,7 +1,6 @@
-# Summary
+# 目録
 
-* [长部经典](README.md)
-* [译者序](content/preface.md)
+* [译者序](preface.md)
 * [翻译说明](content/instruction.md)
 * 戒蕴篇
 	* [梵网经](content/01.md) 

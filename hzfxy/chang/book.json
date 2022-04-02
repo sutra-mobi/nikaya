@@ -1,13 +1,11 @@
 {
 	"title":"长部经典",
 	"author":"慧音等",
+	"publisher":"宗教文化出版社",
 	"language":"zh-hans",
-	"plugins": [
-		"yahei"
-	],
-	"pluginsConfig": {
-		"fontsettings": {
-			"size": 2
-		}
+	"year":2015,
+	"isbn":"9787518800612",
+	"structure": {
+		"readme": "preface.md"
 	}
 }

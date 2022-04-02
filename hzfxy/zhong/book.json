@@ -1,10 +1,11 @@
 {
 	"title":"中部经典",
 	"author":"慧音等",
+	"publisher":"宗教文化出版社",
 	"language":"zh-hans",
-	"pluginsConfig": {
-		"fontsettings": {
-			"size": 2
-		}
+	"year":2017,
+	"isbn":"9787518803781",
+	"structure": {
+		"readme": "preface.md"
 	}
 }

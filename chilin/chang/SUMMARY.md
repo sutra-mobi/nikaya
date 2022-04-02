@@ -1,4 +1,4 @@
-# Summary
+# 目録
 
 * [長部经典](README.md)
 	* [一．梵網經](content/01.md)

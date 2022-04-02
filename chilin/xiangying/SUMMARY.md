@@ -1,4 +1,4 @@
-# Summary
+# 目録
 
 * [相應部经典](README.md)
 	* [一．天神相應](content/01.md)

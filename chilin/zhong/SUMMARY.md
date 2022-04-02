@@ -1,4 +1,4 @@
-# Summary
+# 目録
 
 * [中部经典](README.md)
 	* [一．根源經](content/001.md)

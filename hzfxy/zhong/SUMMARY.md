@@ -1,6 +1,7 @@
-# Summary
+# 目録
 
-* [中部经典](README.md)
+* [《巴利佛典译丛》序](preface.md)
+* [翻译说明](content/instruction.md)
 * 根本五十经篇
 	* [根本法门集](content/01.md)
 		* [根本法门经](content/001.md)

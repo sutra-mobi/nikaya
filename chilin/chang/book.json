@@ -1,10 +1,5 @@
 {
 	"title":"巴利文翻譯組學報.長部",
 	"author":"志蓮淨苑文化部",
-	"language":"zh-hans",
-	"pluginsConfig": {
-		"fontsettings": {
-			"size": 2
-		}
-	}
+	"language":"zh-hans"
 }
