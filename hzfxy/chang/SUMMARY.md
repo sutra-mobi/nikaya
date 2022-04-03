@@ -1,4 +1,4 @@
-# 目録
+# 目录
 
 * [译者序](preface.md)
 * [翻译说明](content/instruction.md)

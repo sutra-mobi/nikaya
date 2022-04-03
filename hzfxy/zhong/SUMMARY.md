@@ -1,4 +1,4 @@
-# 目録
+# 目录
 
 * [《巴利佛典译丛》序](preface.md)
 * [翻译说明](content/instruction.md)
