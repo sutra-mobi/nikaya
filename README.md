@@ -16,6 +16,7 @@
   * [中部](chilin/zhong/SUMMARY.md)
   * [相应部](chilin/xiangying/SUMMARY.md) (缺第8-第11相应)
   * [增支部](chilin/zengzhi/SUMMARY.md) (部份经文)
+  * [小部](chilin/xiao/SUMMARY.md) (部份经文)
 * 杭州佛学院《巴利佛典译丛》系列译本
   * [长部](hzfxy/chang/SUMMARY.md)
   * [中部](hzfxy/zhong/SUMMARY.md)
