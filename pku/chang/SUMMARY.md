@@ -1,4 +1,4 @@
-# Summary
+# 目录
 
 * [长部](README.md)
 * [巴利佛典的由来](content/preface-1.md)
@@ -10,7 +10,7 @@
  * [种德经](content/04.md)
  * [究罗檀陀经](content/05.md)
  * [摩诃梨经](content/06.md)
- * [阁利耶经](content/07.md)
+ * [阇利耶经](content/07.md)
  * [大狮子吼经](content/08.md)
  * [布吒波陀经](content/09.md)
  * [须婆经](content/10.md)
