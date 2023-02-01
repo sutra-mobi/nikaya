@@ -1,4 +1,4 @@
-theme: jekyll-theme-slate
+remote_theme: jekyll-theme-slate
 
 # Google Adsense,不需要请设置为false
 # _includes/ext-adsense.html 里面修改为自己的配置
