@@ -1,4 +1,4 @@
-remote_theme: beautiful-jekyll
+remote_theme: al-folio
 
 # Google Adsense,不需要请设置为false
 # _includes/ext-adsense.html 里面修改为自己的配置
